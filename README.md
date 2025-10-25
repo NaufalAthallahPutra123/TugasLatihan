@@ -36,8 +36,11 @@ Struktur data dan output berurutan
 
 Penjelasan:
 Program ini menggunakan dua perulangan for yang bersarang (nested loop).
+
 Perulangan luar menentukan baris, sedangkan perulangan dalam menentukan kolom.
+
 Setiap elemen hasil dari penjumlahan antara indeks baris dan kolom (i + j).
+
 Setelah satu baris selesai dicetak, program membuat baris baru dengan print() kosong.
 
 Tujuan: Menampilkan pola angka berderet naik di setiap baris.
@@ -46,8 +49,11 @@ Tujuan: Menampilkan pola angka berderet naik di setiap baris.
 
 Penjelasan:
 Program ini menampilkan n bilangan acak yang nilainya kurang dari 0.5.
+
 Pengguna menginput jumlah bilangan (n).
+
 Menggunakan kombinasi while dan if, program terus menghasilkan bilangan acak dengan random.random().
+
 Hanya bilangan yang lebih kecil dari 0.5 yang akan ditampilkan, hingga jumlahnya sesuai n.
 
 Tujuan: Melatih penggunaan perulangan while, percabangan if, dan fungsi acak (random).
